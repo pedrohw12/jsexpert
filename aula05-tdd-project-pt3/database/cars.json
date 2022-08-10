@@ -1,0 +1,23 @@
+[
+  {
+    "id": "f34b2dac-5aa8-4df4-9d1f-8fe4f5060b0c",
+    "name": "Mercielago",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "8ccf3d39-ce7a-46b1-837e-7d9606923c69",
+    "name": "Aventador",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "278c6d21-1b18-49ad-a29e-89cba00dafa2",
+    "name": "Ranchero",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
